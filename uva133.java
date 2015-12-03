@@ -6,7 +6,7 @@ import java.util.*;
 import java.math.*;
 import java.lang.Math.*;
 import java.util.regex.*;
-public class uva00133 
+public class uva133 
 {
      public static void main(String[] args)throws IOException
     {
