@@ -1,7 +1,5 @@
-uva
+在 UVA 網站的解題紀錄
 
-uva code
+帳號 : https://uhunt.onlinejudge.org/id/361008
 
-All is using java.
-
-Some codes aren't accept in uva.
+主要語言使用 Java
